@@ -1,2 +1,2 @@
 # Graphics
-Hosting graphics and images for the Hotchkiss Record
+Hosting graphics and images for the Hotchkiss Record. 
