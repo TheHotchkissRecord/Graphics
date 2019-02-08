@@ -15,13 +15,13 @@ Full favicon: [`graphics.thehr.org/favicon_full.png`](http://graphics.thehr.org/
 ## Off the Record Banner
 ![Off the Record Banner](docs/offtherecord.png)
 
-    [graphics.thehr.org/offtherecord.png](http://graphics.thehr.org/offtherecord.png)
+[`graphics.thehr.org/offtherecord.png`](http://graphics.thehr.org/offtherecord.png)
 
 ## Subscription Banners
 ![Subscription Banner](docs/subscribe_banner.jpg)
 
-    [graphics.thehr.org/subscribe_banner.jpg](http://graphics.thehr.org/subscribe_banner.jpg)
+[`graphics.thehr.org/subscribe_banner.jpg`](http://graphics.thehr.org/subscribe_banner.jpg)
 
 ![Condensed Subscription Banner](docs/subscribe_banner_condensed.jpg)
 
-    [graphics.thehr.org/subscribe_banner_condensed.jpg](http://graphics.thehr.org/subscribe_banner_condensed.jpg)
+[`graphics.thehr.org/subscribe_banner_condensed.jpg`](http://graphics.thehr.org/subscribe_banner_condensed.jpg)
