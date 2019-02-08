@@ -2,26 +2,26 @@
 Hosting graphics and images for the Hotchkiss Record.
 
 ## Favicon / Icon
-<img src="favicon.png" alt="Navy Background Square Icon" width="50%"/><img src="favicon_white.png" alt="White Background Square Icon" width="50%"/>
+<img src="favicon/dark.png" alt="Navy Background Square Icon" width="50%"/><img src="favicon/white.png" alt="White Background Square Icon" width="50%"/>
 
-Black favicon: [`graphics.thehr.org/favicon.png`](http://graphics.thehr.org/favicon.png)
+Dark favicon: [`graphics.thehr.org/favicon/dark.png`](http://graphics.thehr.org/favicon/dark.png)
 
-White favicon: [`graphics.thehr.org/favicon_white.png`](http://graphics.thehr.org/favicon_white.png)
+White favicon: [`graphics.thehr.org/favicon/white.png`](http://graphics.thehr.org/favicon/white.png)
 
-Transparent favicon: [`graphics.thehr.org/favicon_alpha.png`](http://graphics.thehr.org/favicon_alpha.png)
+Transparent favicon: [`graphics.thehr.org/favicon/alpha.png`](http://graphics.thehr.org/favicon/alpha.png)
 
-Full favicon: [`graphics.thehr.org/favicon_full.png`](http://graphics.thehr.org/favicon_full.png)
+Full favicon: [`graphics.thehr.org/favicon/full.png`](http://graphics.thehr.org/favicon/full.png)
 
 ## Off the Record Banner
-![Off the Record Banner](offtherecord.png)
+![Off the Record Banner](newsletter/offtherecord.png)
 
-[`graphics.thehr.org/offtherecord.png`](http://graphics.thehr.org/offtherecord.png)
+[`graphics.thehr.org/offtherecord.png`](http://graphics.thehr.org/newsletter/offtherecord.png)
 
 ## Subscription Banners
-![Subscription Banner](subscribe_banner.jpg)
+![Subscription Banner](subscription/banner.jpg)
 
-[`graphics.thehr.org/subscribe_banner.jpg`](http://graphics.thehr.org/subscribe_banner.jpg)
+[`graphics.thehr.org/subscription/banner.jpg`](http://graphics.thehr.org/subscription/banner.jpg)
 
-![Condensed Subscription Banner](subscribe_banner_condensed.jpg)
+![Condensed Subscription Banner](subscription/condensed.jpg)
 
-[`graphics.thehr.org/subscribe_banner_condensed.jpg`](http://graphics.thehr.org/subscribe_banner_condensed.jpg)
+[`graphics.thehr.org/subscription/condensed.jpg`](http://graphics.thehr.org/subscription/condensed.jpg)
