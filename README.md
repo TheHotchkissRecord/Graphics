@@ -2,8 +2,8 @@
 Hosting graphics and images for the Hotchkiss Record.
 
 ## Favicon / Icon
-<img src="docs/favicon.png" alt="Navy Background Square Icon" width="400"/>
-<img src="docs/favicon_white.png" alt="White Background Square Icon" width="350"/>
+<center><img src="docs/favicon.png" alt="Navy Background Square Icon" width="400"/>
+<img src="docs/favicon_white.png" alt="White Background Square Icon" width="350"/></center>
 
 
     graphics.thehr.org/favicon.png
