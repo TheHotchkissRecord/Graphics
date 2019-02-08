@@ -20,8 +20,8 @@ Full favicon: [`graphics.thehr.org/favicon_full.png`](http://graphics.thehr.org/
 ## Subscription Banners
 ![Subscription Banner](subscribe_banner.jpg)
 
-[`graphics.thehr.org/subscribe_banner.jpg`](http://graphics.thehr.org/subscribe_banner.jpg) ([Download](https://github.com/TheHotchkissRecord/Graphics/raw/master/docs/subscribe_banner.jpg))
+[`graphics.thehr.org/subscribe_banner.jpg`](http://graphics.thehr.org/subscribe_banner.jpg)
 
 ![Condensed Subscription Banner](subscribe_banner_condensed.jpg)
 
-[`graphics.thehr.org/subscribe_banner_condensed.jpg`](http://graphics.thehr.org/subscribe_banner_condensed.jpg) ([Download](https://github.com/TheHotchkissRecord/Graphics/raw/master/docs/subscribe_banner_condensed.jpg))
+[`graphics.thehr.org/subscribe_banner_condensed.jpg`](http://graphics.thehr.org/subscribe_banner_condensed.jpg)
