@@ -1,3 +1,4 @@
+![Record Logo]
 # Graphics
 Hosting graphics and images for the Hotchkiss Record.
 
@@ -15,7 +16,11 @@ Hosting graphics and images for the Hotchkiss Record.
 
     graphics.thehr.org/offtherecord.png
 
-## Subscription Banner
+## Subscription Banners
 ![Subscription Banner](docs/subscribe_banner.jpg)
 
     graphics.thehr.org/subscribe_banner.jpg
+
+![Condensed Subscription Banner](docs/subscribe_banner_condensed.jpg)
+
+    graphics.thehr.org/subscribe_banner_condensed.jpg
