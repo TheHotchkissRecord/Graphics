@@ -17,6 +17,10 @@ Full favicon: [`graphics.thehr.org/favicon/full.png`](https://graphics.thehr.org
 
 [`graphics.thehr.org/offtherecord.png`](https://graphics.thehr.org/newsletter/offtherecord.png)
 
+![Off the Record Dark Banner](newsletter/offtherecord_dark.png)
+
+[`graphics.thehr.org/offtherecord_dark.png`](https://graphics.thehr.org/newsletter/offtherecord_dark.png)
+
 ## Subscription Banners
 ![Subscription Banner](subscription/banner.jpg)
 
