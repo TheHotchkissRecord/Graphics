@@ -15,11 +15,15 @@ Full favicon: [`graphics.thehr.org/favicon/full.png`](https://graphics.thehr.org
 ## Off the Record Banner
 ![Off the Record Banner](newsletter/offtherecord.png)
 
-[`graphics.thehr.org/offtherecord.png`](https://graphics.thehr.org/newsletter/offtherecord.png)
+[`graphics.thehr.org/newsletter/offtherecord.png`](https://graphics.thehr.org/newsletter/offtherecord.png)
 
 ![Off the Record Dark Banner](newsletter/offtherecord_dark.png)
 
-[`graphics.thehr.org/offtherecord_dark.png`](https://graphics.thehr.org/newsletter/offtherecord_dark.png)
+[`graphics.thehr.org/newsletter/offtherecord_dark.png`](https://graphics.thehr.org/newsletter/offtherecord_dark.png)
+
+![Spring 2020 Newsletter Banner](newsletter/spring_2020_header.png)
+
+[`graphics.thehr.org/newsletter/spring_2020_header.png`](https://graphics.thehr.org/newsletter/spring_2020_header.png)
 
 ## Subscription Banners
 ![Subscription Banner](subscription/banner.jpg)
