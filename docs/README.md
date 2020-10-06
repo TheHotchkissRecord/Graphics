@@ -38,3 +38,10 @@ Full favicon: [`graphics.thehr.org/favicon/full.png`](https://graphics.thehr.org
 ![Google Form Background](misc/google_form.png)
 
 [`graphics.thehr.org/misc/google_form.png`](https://graphics.thehr.org/misc/google_form.png)
+
+## Misc
+Website Header (white)
+[`graphics.thehr.org/misc/website-header-white.svg`](https://graphics.thehr.org/misc/website-header-white.svg)
+
+Website Mini-Title (white)
+[`graphics.thehr.org/misc/website-mini-title-white.png`](https://graphics.thehr.org/misc/website-mini-title-white.png)
